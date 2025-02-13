@@ -2,7 +2,7 @@
 
 ## 👥 팀 구성
 
-- **팀장**: 이원 ([GitHub](https://github.com/yusongod0303))
+- **팀장**: 이 원 ([GitHub](https://github.com/yusongod0303))
 - **팀원**:
   - 팀원: 이유송 ([GitHub](https://github.com/yusongod0303))
   - 팀원: 임혁진 ([GitHub](https://github.com/example))
