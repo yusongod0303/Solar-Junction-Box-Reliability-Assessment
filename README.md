@@ -5,7 +5,7 @@
 - **팀장**: 이원 ([GitHub](https://github.com/yusongod0303))
 - **팀원**:
   - 팀원: 이유송 ([GitHub](https://github.com/yusongod0303))
-  - 팀원: 임혁진 ([GitHub](https://github.com/example2))
+  - 팀원: 임혁진 ([GitHub](https://github.com/example))
 
 ## 📌 프로젝트 개요
 **제10회 공공데이터 활용 비즈니스 아이디어 공모전 - 빅데이터 분석 부문 장려상**
